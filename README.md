@@ -5,6 +5,7 @@ fofa:body="U8Accid" || title="GRP-U8" || body="用友优普信息技术有限公
 ```
 ```
 Usage:
+  python3 GRP-U8_loginfo.py -h
   python3 GRP-U8_loginfo.py -u http://www.example.com 单个url测试
   python3 GRP-U8_loginfo.py -f url.txt 批量检测
 ```
